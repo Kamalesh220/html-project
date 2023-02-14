@@ -1,0 +1,30 @@
+
+h1 {
+    color: rgb(31, 162, 50);
+    text-align: center;
+    
+}
+body{
+    background-image: url("languages.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+form{
+    border: 5px inset;
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-right: 450px;
+    padding: 65px;
+    background-color: rgba(164, 186, 213, 0.521);
+}
+
+
+div.main{
+    margin-top: 0px;
+    margin-left: 450px;
+
+}
+div.back{
+    margin: 40px;
+}
